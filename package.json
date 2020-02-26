@@ -1,0 +1,11 @@
+{
+  "name": "@bharath29/crypto-sha256",
+  "version": "1.0.0",
+  "description": "a simple package for sha256 algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bharath Bheemireddy",
+  "license": "ISC"
+}
