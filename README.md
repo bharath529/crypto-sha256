@@ -1,4 +1,4 @@
-[![NPM version](https://badge.fury.io/js/crypto-sha256.svg)](http://badge.fury.io/js/crypto-sha256)
+[![NPM version](https://badge.fury.io/js/%40bharath29%2Fcrypto-sha256.svg)](https://badge.fury.io/for/js/@bharath29/crypto-sha256)
 
 # crypto-sha256
 
