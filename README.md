@@ -31,7 +31,7 @@ sha256("sample data", "hex");
 
 ## Contributions
 
-Please open issues for bugs and suggestions in [github](https://github.com/bharath529/sha256/issues).
+Please open issues for bugs and suggestions in [github](https://github.com/bharath529/crypto-sha256/issues).
 Pull requests with tests are welcome.
 
 ## Author
